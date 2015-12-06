@@ -1,0 +1,6 @@
+c:\users\shivam.srivastava\documents\visual studio 2013\Projects\WebApplicationUploadMain\WebApplicationUploadMain\bin\WebApplicationUploadMain.dll.config
+c:\users\shivam.srivastava\documents\visual studio 2013\Projects\WebApplicationUploadMain\WebApplicationUploadMain\bin\WebApplicationUploadMain.dll
+c:\users\shivam.srivastava\documents\visual studio 2013\Projects\WebApplicationUploadMain\WebApplicationUploadMain\bin\WebApplicationUploadMain.pdb
+c:\users\shivam.srivastava\documents\visual studio 2013\Projects\WebApplicationUploadMain\WebApplicationUploadMain\obj\Debug\WebApplicationUploadMain.csprojResolveAssemblyReference.cache
+c:\users\shivam.srivastava\documents\visual studio 2013\Projects\WebApplicationUploadMain\WebApplicationUploadMain\obj\Debug\WebApplicationUploadMain.dll
+c:\users\shivam.srivastava\documents\visual studio 2013\Projects\WebApplicationUploadMain\WebApplicationUploadMain\obj\Debug\WebApplicationUploadMain.pdb
